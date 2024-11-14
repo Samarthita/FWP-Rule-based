@@ -1,0 +1,352 @@
+[
+ {
+  "id": "1",
+  "question": "If principal is 121200 Rs. and if the simple interest is 15000 Rs for 2 years. Then find the rate of interest per annum.",
+  "qs_sentence": "Find the rate of interest per annum.",
+  "equation": "x=(15000*100)/(121200*2)",
+  "ans": "6.19"
+ },
+ {
+  "id": "2",
+  "question": "A principal amount of 50000 Rs. yields a simple interest of 9200 Rs. in 3.5 years. Determine the rate of interest.",
+  "qs_sentence": "Determine the rate of interest",
+  "equation": "x=(9200*100)/(50000*3.5)",
+  "ans": "5.26"
+ },
+ {
+  "id": "3",
+  "question": "Find the time in years if a principal amount of 60000 Rs. generates a simple interest of 9540 Rs. at a rate of 8.5% per annum.",
+  "qs_sentence": "Find the time in years if a principal amount of 60000 Rs. generates a simple interest of 9540 Rs. at a rate of 8.5% per annum.",
+  "equation": "x=(9540*100)/(60000*8.5)",
+  "ans": "1.87"
+ },
+ {
+  "id": "4",
+  "question": "The rate of interest is 7.9% per annum, and the simple interest is 2025 Rs. Calculate the principal amount for a period of 3 years.",
+  "qs_sentence": "Calculate the principal amount ",
+  "equation": "x=(2025*100)/(7.9*3)",
+  "ans": "8531.65"
+ },
+ {
+  "id": "5",
+  "question": "Calculate the principal amount for a simple interest of 920 Rs. at a rate of 4.8% per annum for 2.5 years.",
+  "qs_sentence": "Calculate the principal amount for a simple interest of 920 Rs. at a rate of 4.8% per annum for 2.5 years..",
+  "equation": "x=(920*100)/(4.8*2.5)",
+  "ans": "7666.67"
+ },
+ {
+  "id": "6",
+  "question": "If the principal is 20000 Rs. and the simple interest is 4000 Rs. for 26 months, find the rate of interest per annum.",
+  "qs_sentence": "find the rate of interest per annum.",
+  "equation": "x=(4000*100)/(20000*2.2)",
+  "ans": "9.09"
+ },
+ {
+  "id": "7",
+  "question": "The rate of interest is 8.5% per annum, and the simple interest is 2050 Rs. Find the time in years for a principal amount of 15550 Rs.",
+  "qs_sentence": "Find the time in years.",
+  "equation": "x=(2050*100)/(15500*8.5)",
+  "ans": "1.55"
+ },
+ {
+  "id": "8",
+  "question": "Find the rate of interest per annum if a principal amount of 40780 Rs. generates a simple interest of 8500 Rs. in 2 years.",
+  "qs_sentence": "Find the rate of interest per annum if a principal amount of 40780 Rs. generates a simple interest of 8500 Rs. in 2 years.",
+  "equation": "x=(8500*100)/(40780*2)",
+  "ans": "10.42"
+ },
+ {
+  "id": "9",
+  "question": "A principal amount of 100000 Rs. yields a simple interest of 16600 Rs. in 1.2 years. Determine the rate of interest.",
+  "qs_sentence": "Determine the rate of interest.",
+  "equation": "x=(16600*100)/(100000*1.2)",
+  "ans": "13.83"
+ },
+ {
+  "id": "10",
+  "question": "If the simple interest accrued on a principal of 2500 Rs. in 4 years is 755 Rs., calculate the rate of interest per annum.",
+  "qs_sentence": "calculate the rate of interest per annum.",
+  "equation": "x=(755*100)/(2500*4)",
+  "ans": "7.55"
+ },
+ {
+  "id": "11",
+  "question": "Calculate the time in years for a principal amount of 7598 Rs. at a rate of 6% per annum, given a simple interest of 840 Rs.",
+  "qs_sentence": "Calculate the time in years for a principal amount of 7598 Rs. at a rate of 6% per annum, given a simple interest of 840 Rs.",
+  "equation": "x=(840*100)/(7598*6)",
+  "ans": "1.84"
+ },
+ {
+  "id": "12",
+  "question": "If the principal is 75000 Rs. and the simple interest is 1970 Rs. for 3 years, find the rate of interest per annum.",
+  "qs_sentence": "find the rate of interest per annum",
+  "equation": "x=(1970*100)/(75000*3)",
+  "ans": "0.876"
+ },
+ {
+  "id": "13",
+  "question": "A principal of 18999 Rs. generates a simple interest of 2799 Rs. in 4.5 years. Determine the rate of interest per annum.",
+  "qs_sentence": "Determine the rate of interest per annum.",
+  "equation": "x=(2799*100)/(18999*4.5)",
+  "ans": "3.27"
+ },
+ {
+  "id": "14",
+  "question": "Calculate the simple interest for a principal amount of 5050 Rs. at a rate of 6.5% per annum for 2 years.",
+  "qs_sentence": "Calculate the simple interest for a principal amount of 5050 Rs. at a rate of 6.5% per annum for 2 years.",
+  "equation": "x=(5050*6.5*2)/100",
+  "ans": "656.50"
+ },
+ {
+  "id": "15",
+  "question": "The rate of interest is 8% per annum, and the simple interest is 16000 Rs. Find the principal amount for a period of 4 years",
+  "qs_sentence": "Find the principal amount for a period of 4 years.",
+  "equation": "x=(16000*100)/(8*4)",
+  "ans": "50000"
+ },
+ {
+  "id": "16",
+  "question": "If the principal is Rs 500, the interest rate is 3%, and the time is 2 years, what is the simple interest?",
+  "qs_sentence": "what is the simple interest?",
+  "equation": "x=(500*3*2)/100",
+  "ans": "30"
+ },
+ {
+  "id": "17",
+  "question": "A principal amount of Rs 1,200 earns Rs 60 in interest over 4 years. What is the interest rate?",
+  "qs_sentence": " What is the interest rate?",
+  "equation": "x=(60*100)/(1200*4)",
+  "ans": "1.25"
+ },
+ {
+  "id": "18",
+  "question": "If the simple interest on a loan of Rs 800 for 3 years is Rs 120, what is the annual interest rate?",
+  "qs_sentence": "what is the annual interest rate?",
+  "equation": "x=(120*100)/(800*3)",
+  "ans": "5"
+ },
+ {
+  "id": "19",
+  "question": "How much simple interest will you earn on a Rs 1,000 deposit at a 5% interest rate for 1.5 years?",
+  "qs_sentence": "How much simple interest will you earn on a Rs 1,000 deposit at a 5% interest rate for 1.5 years?",
+  "equation": "x=(1000*5*1.5)/100",
+  "ans": "75"
+ },
+ {
+  "id": "20",
+  "question": "If the principal is Rs 2,500 and the interest is Rs 375, what is the interest rate over 5 years?",
+  "qs_sentence": "what is the interest rate over 5 years?",
+  "equation": "x=(375*100)/(2500*5)",
+  "ans": "3"
+ },
+ {
+  "id": "21",
+  "question": "If the principal is Rs 2,570 and the interest is Rs 375, what is the interest rate over 4.5 years?",
+  "qs_sentence": "If the principal is Rs 2,570 and the interest is Rs 375, what is the interest rate over 4.5 years?",
+  "equation": "x=(375*100)/(2570*4.5)",
+  "ans": "3.24"
+ },
+ {
+  "id": "22",
+  "question": "If the principal is Rs 1,500, the interest rate is 4%, and the time is 6 months, Calculate the interest?",
+  "qs_sentence": "Calculate the interest.",
+  "equation": "x=(1500*4*0.5)/100",
+  "ans": "30"
+ },
+ {
+  "id": "23",
+  "question": "How long will it take for a principal amount of Rs 3,000 to earn Rs 450 in simple interest at a rate of 5%?",
+  "qs_sentence": "How long will it take for a principal amount of Rs 3,000 to earn Rs 450 in simple interest at a rate of 5%?",
+  "equation": "x=(450*100)/(3000*5)",
+  "ans": "3"
+ },
+ {
+  "id": "24",
+  "question": "If the simple interest on a loan of Rs 700 for 2 years is Rs 84, determine the interest rate?",
+  "qs_sentence": "determine the interest rate?",
+  "equation": "x=(84*100)/(700*2)",
+  "ans": "6"
+ },
+ {
+  "id": "25",
+  "question": "Calculate the principal amount if the simple interest is Rs 90, the interest rate is 6%, and the time is 3 years?",
+  "qs_sentence": "Calculate the principal amount if the simple interest is Rs 90, the interest rate is 6%, and the time is 3 years?",
+  "equation": "x=(90*100)/(6*3)",
+  "ans": "500"
+ },
+ {
+  "id": "26",
+  "question": "If the interest is Rs 120, the interest rate is 8%, and the time is 2 years.Determine the principal amount?",
+  "qs_sentence": "Determine the principal amount?",
+  "equation": "x=(120*100)/(8*2)",
+  "ans": "750"
+ },
+ {
+  "id": "27",
+  "question": "A principal of Rs 1,000 is invested at an annual interest rate of 2.5%. How much interest is earned after 4 years?",
+  "qs_sentence": "How much interest is earned after 4 years?",
+  "equation": "x=(1000*2.5*4)/100",
+  "ans": "100"
+ },
+ {
+  "id": "28",
+  "question": "If the principal is Rs 4,500, the interest rate is 6%, and the time is 3 years, what is the simple interest?",
+  "qs_sentence": " what is the simple interest?",
+  "equation": "x=(4500*6*3)/100",
+  "ans": "810"
+ },
+ {
+  "id": "29",
+  "question": "If the principal is Rs 7,500, the interest rate is 6%, and the time is 3 years, what is the simple interest?",
+  "qs_sentence": "what is the simple interest?",
+  "equation": "x=(7500*6*3)/100",
+  "ans": "1350"
+ },
+ {
+  "id": "30",
+  "question": "If the simple interest on a loan of Rs 600 for 1 year is Rs 30, what is the annual interest rate?",
+  "qs_sentence": "what is the annual interest rate?",
+  "equation": "x=(30*100)/(600*1)",
+  "ans": "5"
+ },
+ {
+  "id": "31",
+  "question": "What is the principal amount if the simple interest is Rs 75, the interest rate is 5%, and the time is 2 years?",
+  "qs_sentence": "What is the principal amount if the simple interest is Rs 75, the interest rate is 5%, and the time is 2 years?",
+  "equation": "x=(75*100)/(5*2)",
+  "ans": "750"
+ },
+ {
+  "id": "32",
+  "question": "A principal amount of Rs 1,800 earns Rs 270 in interest over 6 years. What is the interest rate?",
+  "qs_sentence": "What is the interest rate?",
+  "equation": "x=(270*100)/(1800*6)",
+  "ans": "2.5"
+ },
+ {
+  "id": "33",
+  "question": "If the principal is Rs 2,000, the interest rate is 7%, and the time is 9 months, what is the interest?",
+  "qs_sentence": " what is the interest?",
+  "equation": "x=(2000*7*0.75)/100",
+  "ans": "105"
+ },
+ {
+  "id": "34",
+  "question": "How long will it take for a principal amount of Rs 5,000 to earn Rs 750 in simple interest at a rate of 4%?",
+  "qs_sentence": "How long will it take for a principal amount of Rs 5,000 to earn Rs 750 in simple interest at a rate of 4%?",
+  "equation": "x=(750*100)/(5000*4)",
+  "ans": "3.75"
+ },
+ {
+  "id": "35",
+  "question": "If the simple interest on a loan of Rs 900 for 3 years is Rs 108, what is the annual interest rate?",
+  "qs_sentence": "what is the annual interest rate?",
+  "equation": "x=(108*100)/(900*3)",
+  "ans": "4"
+ },
+ {
+  "id": "36",
+  "question": "What is the principal amount if the simple interest is Rs 120, the interest rate is 4%, and the time is 5 years?",
+  "qs_sentence": "What is the principal amount if the simple interest is Rs 120, the interest rate is 4%, and the time is 5 years?",
+  "equation": "x=(120*100)/(4*5)",
+  "ans": "600"
+ },
+ {
+  "id": "37",
+  "question": "A principal of Rs 1,200 is invested at an annual interest rate of 3%.Find the interest is earned after 5 years?",
+  "qs_sentence": "Find the interest is earned after 5 years?",
+  "equation": "x=(1200*3*5)/100",
+  "ans": "90"
+ },
+ {
+  "id": "38",
+  "question": "If the principal is Rs 3,500, the interest rate is 5%, and the time is 2 years, determine the simple interest?",
+  "qs_sentence": "determine the simple interest?",
+  "equation": "x=(3500*5*2)/100",
+  "ans": "350"
+ },
+ {
+  "id": "39",
+  "question": "If the principal is Rs 3,575, the interest rate is 5.5%, and the time is 2 years, determine the simple interest?",
+  "qs_sentence": "What is the rate of interest?",
+  "equation": "x=(3575*5.5*2)/100",
+  "ans": "39.2125"
+ },
+ {
+  "id": "40",
+  "question": "Calculate interest will you earn on a Rs 2,500 deposit at a 6% interest rate for 3 years?",
+  "qs_sentence": "Calculate interest will you earn on a Rs 2,500 deposit at a 6% interest rate for 3 years?",
+  "equation": "x=(2500*6*3)/100",
+  "ans": "450"
+ },
+ {
+  "id": "41",
+  "question": "If the simple interest on a loan of Rs 800 for 2 years is Rs 96, find the annual interest rate?",
+  "qs_sentence": "find the annual interest rate?",
+  "equation": "x=(96*100)/(800*2)",
+  "ans": "6"
+ },
+ {
+  "id": "42",
+  "question": "What is the principal amount if the simple interest is Rs 150, the interest rate is 9%, and the time is 4 years?",
+  "qs_sentence": "What is the principal amount if the simple interest is Rs 150, the interest rate is 9%, and the time is 4 years?",
+  "equation": "x=(150*100)/(9*4)",
+  "ans": "416.67"
+ },
+ {
+  "id": "43",
+  "question": "If the interest is Rs 180, the interest rate is 10%, and the time is 3 years, what is the principal amount?",
+  "qs_sentence": "what is the principal amount?",
+  "equation": "x=(180*100)/(10*3)",
+  "ans": "600"
+ },
+ {
+  "id": "44",
+  "question": "How long will it take for a principal amount of Rs 4,000 to earn Rs 480 in simple interest at a rate of 6%?",
+  "qs_sentence": "How long will it take for a principal amount of Rs 4,000 to earn Rs 480 in simple interest at a rate of 6%?",
+  "equation": "x=(480*100)/(4000*6)",
+  "ans": "2"
+ },
+ {
+  "id": "45",
+  "question": "Calculate the principal amount if the simple interest is Rs 80, the interest rate is 8%, and the time is 2 years?",
+  "qs_sentence": "Calculate the principal amount if the simple interest is Rs 80, the interest rate is 8%, and the time is 2 years?",
+  "equation": "x=(80*100)/(8*2)",
+  "ans": "500"
+ },
+ {
+  "id": "46",
+  "question": "A principal of Rs 1,500 is invested at an annual interest rate of 4%.Determine interest is earned after 3 years?",
+  "qs_sentence": "Determine interest is earned after 3 years?",
+  "equation": "x=(1500*4*3)/100",
+  "ans": "180"
+ },
+ {
+  "id": "47",
+  "question": "A principal of Rs. 12500 at 7.5% per annum for 2 years. Calculate the amount",
+  "qs_sentence": "Calculate the amount.",
+  "equation": "x=12500*(1+7.5/100)^2",
+  "ans": "14406.25"
+ },
+ {
+  "id": "48",
+  "question": "If the principal is Rs 5,000, the interest rate is 7%, and the time is 4 years, what is the simple interest?",
+  "qs_sentence": "what is the simple interest?",
+  "equation": "x=(5000*7*4)/100",
+  "ans": "1400"
+ },
+ {
+  "id": "49",
+  "question": "If the simple interest on a loan of Rs 870 for 2 years is Rs 96, find the annual interest rate?",
+  "qs_sentence": "find the annual interest rate?",
+  "equation": "x=(96*100)/(870*2)",
+  "ans": "5.517"
+ },
+ {
+  "id": "50",
+  "question": "Find the interest will you earn on a Rs 3,000 deposit at a 5% interest rate for 2.5 years?",
+  "qs_sentence": "Find the interest will you earn on a Rs 3,000 deposit at a 5% interest rate for 2.5 years?",
+  "equation": "x=(3000*5*2.5)/100",
+  "ans": "187.5"
+ }
+]
